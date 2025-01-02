@@ -27,7 +27,6 @@ Using features like:
 ## 📂 Repository Structure
 ```
 blossom-predictor/
-├── data/              # Dataset and preprocessing scripts
 ├── notebooks/         # Jupyter notebooks for experimentation
 ├── README.md          # Project overview
 └── requirements.txt   # Python dependencies
